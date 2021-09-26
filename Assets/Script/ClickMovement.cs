@@ -10,6 +10,8 @@ public class ClickMovement : MonoBehaviour
     public Tilemap fogOfWar;
     public Tilemap world;
     public GameObject tile;
+    public Tile tileMouseOver;
+    Camera cam;
 
 
     public Vector3Int location;
@@ -20,10 +22,14 @@ public class ClickMovement : MonoBehaviour
     [SerializeField]
     int lances = 50;
     int lancesMax = 50;
+    [SerializeField]
+    int custoTotal;
+
+    public string nomeTileMap;
 
     void Start()
     {
-
+        cam = gameObject.GetComponentInChildren<Camera>();
     }
 
     void Update()
@@ -37,8 +43,17 @@ public class ClickMovement : MonoBehaviour
         if (Input.GetMouseButtonDown(0)){
             limitadorMethod(); 
         }
+        Raycast2DMethod();
+    }
+    void Raycast2DMethod()
+    {
+        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+        RaycastHit2D hit = Physics2D.Raycast(ray.origin, ray.direction, Mathf.Infinity);
+        if (hit){
 
-
+            nomeTileMap = hit.transform.name;
+            //print(tileMouseOver);
+        }
     }
     void MovementClickMethod()
     {
@@ -48,16 +63,18 @@ public class ClickMovement : MonoBehaviour
             transform.position = novaPostionPlayer;
             UpdateFogOfWar();
         }
-        else print("não tem");
+        else //print("não tem");
+
         custosMethod(1);
+        //print("Mover +1");
+        lances -= custoTotal;
+        custoTotal = 0;
         //colocando um limitador
     }
-
     void custosMethod(int custoLance)
     {
-        lances -= custoLance;
+        custoTotal += custoLance;
     }
-
     void limitadorMethod()
     {
         Vector3Int tileAtual = world.WorldToCell(transform.position);
@@ -71,15 +88,15 @@ public class ClickMovement : MonoBehaviour
             || movementHorizontal < -0.5f && movementVertical < -0.5f
             || movementHorizontal > 1f || movementHorizontal < -1f
             || movementVertical > 0.5f || movementVertical < -0.5f
+            //|| movementVertical == 0f && movementVertical == 0f
             ){
-            print("vai não");
+            //print("vai não");
         }
         else{
             //print(movementHorizontal +"| "+ movementHorizontal);
             MovementClickMethod();
         }
     }
-
     public int vision = 1;
     void UpdateFogOfWar(){
         Vector3Int currentPlayerTile = fogOfWar.WorldToCell(transform.position);
@@ -90,47 +107,23 @@ public class ClickMovement : MonoBehaviour
             }
         }
     }
-
     void OnTriggerEnter2D(Collider2D objeto)
-    {
-        if (objeto.gameObject.layer > gameObject.layer)
-        {
-            //print("Player: "+ gameObject.layer+", Objeto:" + objeto.gameObject.layer );
-            custosMethod(1);
-            gameObject.layer = objeto.gameObject.layer;
-        }
+   {
+    //    if (objeto.gameObject.layer > gameObject.layer){
 
-        else if (objeto.gameObject.layer <= gameObject.layer)
-        {
-            gameObject.layer = objeto.gameObject.layer;
-        }
-
-        else if (objeto.gameObject.tag == "Pedra")
-        {
-            custosMethod(1);
-        }
-    }
-    
-    void OnMouseEnter()
-    {
-        if (world.GetTile(location))
-        {
-            print("tem alguem aqui");
-            tile.SetActive(true);
-        }
-
-        else {
-            print("não tem ninguem aqui"); 
-            tile.SetActive(false); 
-        }
-    }
-
-    //void OnMouseExit()
-    //{
-    //    if (!world.GetTile(location))
-    //    {
-    //        tile.SetActive(false);
+    //        print("Player: "+ gameObject.layer+", Objeto:" + objeto.gameObject.layer );
+    //        custosMethod(1);
+    //        gameObject.layer = objeto.gameObject.layer;
+    //        print("Subir Elevação +1" + objeto.gameObject.name);
     //    }
-        
-    //}
+
+    //    else if (objeto.gameObject.layer <= gameObject.layer){
+    //        gameObject.layer = objeto.gameObject.layer;
+    //    }
+
+    //    else if (objeto.gameObject.tag == "Pedra"){
+    //        print("Pedra +1");
+    //        custosMethod(1);
+    //    }
+    }
 }
