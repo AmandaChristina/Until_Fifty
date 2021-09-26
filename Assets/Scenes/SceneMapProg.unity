@@ -142,7 +142,6 @@ MonoBehaviour:
   fogOfWar: {fileID: 1989803913}
   world: {fileID: 7532137774092902523}
   tile: {fileID: 708196390}
-  panelMovementCanvas: {fileID: 330786533}
   location: {x: 0, y: 0, z: 0}
   lances: 50
   vision: 1
@@ -919,6 +918,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14e5763baaca3a04a88904e8e5d4cc4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  panelMovementCanvas: {fileID: 330786533}
 --- !u!1 &835224597
 GameObject:
   m_ObjectHideFlags: 0
@@ -2968,7 +2968,7 @@ PrefabInstance:
     - target: {fileID: 5961129234920099617, guid: d08153bbacd18f24db726a8c49f84d70,
         type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 5961129234920099618, guid: d08153bbacd18f24db726a8c49f84d70,
         type: 3}
@@ -2978,12 +2978,12 @@ PrefabInstance:
     - target: {fileID: 5961129234920099619, guid: d08153bbacd18f24db726a8c49f84d70,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 11
+      value: 4.977
       objectReference: {fileID: 0}
     - target: {fileID: 5961129234920099619, guid: d08153bbacd18f24db726a8c49f84d70,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 8.79
+      value: 4.738
       objectReference: {fileID: 0}
     - target: {fileID: 5961129234920099619, guid: d08153bbacd18f24db726a8c49f84d70,
         type: 3}
