@@ -1,7 +1,418 @@
 fileFormatVersion: 2
 guid: a767a8a694ea9d14eb94ae459fa70c21
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3315119063919889937
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_0
+  - first:
+      213: 2117681090925177823
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_1
+  - first:
+      213: -5380744146889895828
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_2
+  - first:
+      213: 3238656582600184447
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_3
+  - first:
+      213: -9152690213775911183
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_4
+  - first:
+      213: -7185913326727028830
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_5
+  - first:
+      213: 2471591214603325716
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_6
+  - first:
+      213: 5378986684192046769
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_7
+  - first:
+      213: 8453121170185205545
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_8
+  - first:
+      213: -1953091748606986142
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_9
+  - first:
+      213: -169552704160145676
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_10
+  - first:
+      213: 6356263621019354937
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_11
+  - first:
+      213: 129556731746263379
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_12
+  - first:
+      213: -2132738241272739207
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_13
+  - first:
+      213: -8401358707474512712
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_14
+  - first:
+      213: -6941404568090945249
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_15
+  - first:
+      213: -5906925020877002271
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_16
+  - first:
+      213: 4988694793972333894
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_17
+  - first:
+      213: 8159699021159361234
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_18
+  - first:
+      213: -8794280058991972033
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_19
+  - first:
+      213: -8912372800745945667
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_20
+  - first:
+      213: 1321145042830644296
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_21
+  - first:
+      213: -6439493139677409623
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_22
+  - first:
+      213: -1935229663470670209
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_23
+  - first:
+      213: 2141562910227726383
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_24
+  - first:
+      213: -7600220829220886452
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_25
+  - first:
+      213: 4257575146712420889
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_26
+  - first:
+      213: 4694103283223076409
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_27
+  - first:
+      213: -8998104838082866696
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_28
+  - first:
+      213: -5505358470095769814
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_29
+  - first:
+      213: -7238596945877606632
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_30
+  - first:
+      213: 7931311038232721330
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_31
+  - first:
+      213: -8756745639643202556
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_32
+  - first:
+      213: -6117087456155313834
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_33
+  - first:
+      213: 3976566189672290516
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_34
+  - first:
+      213: -114953701914013869
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_35
+  - first:
+      213: -3885713873685599717
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_36
+  - first:
+      213: 7778260974701919822
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_37
+  - first:
+      213: 1691684385914137830
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_38
+  - first:
+      213: 3567475649011571707
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_39
+  - first:
+      213: 3034202327550291664
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_40
+  - first:
+      213: -470196935209860545
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_41
+  - first:
+      213: -104631503254972446
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_42
+  - first:
+      213: 1984857551213190381
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_43
+  - first:
+      213: -2122792125687199131
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_44
+  - first:
+      213: 7508079130689054770
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_45
+  - first:
+      213: -5500277138575097091
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_46
+  - first:
+      213: 2522791307833480588
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_47
+  - first:
+      213: -3130538927985481984
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_48
+  - first:
+      213: -1076267687066960548
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_49
+  - first:
+      213: -9077282834909381348
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_50
+  - first:
+      213: -1981800298997039320
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_51
+  - first:
+      213: -8258292684017741327
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_52
+  - first:
+      213: 6814343504677586258
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_53
+  - first:
+      213: 7796500725954969079
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_54
+  - first:
+      213: 880614130852197742
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_55
+  - first:
+      213: 5409824813483248062
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_56
+  - first:
+      213: 7136232772973976311
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_57
+  - first:
+      213: -8294115463146687723
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_58
+  - first:
+      213: 4092872363586089605
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_59
+  - first:
+      213: -7946576514252717454
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_60
+  - first:
+      213: 3135359862936271335
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_61
+  - first:
+      213: 182428748348726031
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_62
+  - first:
+      213: 2332731946229463520
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_63
+  - first:
+      213: 3868885441194214311
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_64
+  - first:
+      213: 8012111282777762024
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_65
+  - first:
+      213: 3536308647485792376
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_66
+  - first:
+      213: 7535001548733501312
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_67
+  - first:
+      213: 4111439638834444139
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_68
+  - first:
+      213: 5552366057499726662
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_69
+  - first:
+      213: -4819619748284152749
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_70
+  - first:
+      213: 531886433031981634
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_71
+  - first:
+      213: 9134492904032034120
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_72
+  - first:
+      213: 689885496319835545
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_73
+  - first:
+      213: 7686345292404945905
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_74
+  - first:
+      213: 2402583487980031017
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_75
+  - first:
+      213: 3617577102152858517
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_76
+  - first:
+      213: -3662913515086880720
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_77
+  - first:
+      213: -1303634301067959409
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_78
+  - first:
+      213: -7990922577912243658
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_79
+  - first:
+      213: -1926108447360727308
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_80
+  - first:
+      213: 1504987685051199251
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_81
+  - first:
+      213: -8881926735786770732
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_82
+  - first:
+      213: 4843897221802944673
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_83
+  - first:
+      213: -6585678748569257994
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_84
+  - first:
+      213: 8369252114133266002
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_85
+  - first:
+      213: 3682365104220520560
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_86
+  - first:
+      213: -3286348329904308038
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_87
+  - first:
+      213: 8383527409964394362
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_88
+  - first:
+      213: 1332772368474888472
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_89
+  - first:
+      213: 2292141735846085919
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_90
+  - first:
+      213: -594657406481452505
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_91
+  - first:
+      213: -3778032305304487855
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_92
+  - first:
+      213: 7302463793924314580
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_93
+  - first:
+      213: -8062640940284521489
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_94
+  - first:
+      213: 1202516178259620200
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_95
+  - first:
+      213: 8098039963713330939
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_96
+  - first:
+      213: -4136203375364792317
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_97
+  - first:
+      213: -5297530549375247075
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_98
+  - first:
+      213: 6172481404477511266
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_99
+  - first:
+      213: -7174613528394751590
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_100
+  - first:
+      213: -2677854706564553427
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_101
+  - first:
+      213: 7868365704700930818
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_102
+  - first:
+      213: -5485067064428803641
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_103
+  - first:
+      213: -7125153409838567143
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_104
+  - first:
+      213: 1266279690122160224
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_105
+  - first:
+      213: -6082990950291564254
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_106
+  - first:
+      213: -4328874903583547713
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_107
+  - first:
+      213: -4024743315026302865
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_108
+  - first:
+      213: 2637703545888892279
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_109
+  - first:
+      213: -4907088341477227116
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_110
+  - first:
+      213: -7359263866371186592
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_111
+  - first:
+      213: 141168491693639158
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_112
+  - first:
+      213: 5479020399547196841
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_113
+  - first:
+      213: 3704052646007567667
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_114
+  - first:
+      213: 4464568826234908612
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_115
+  - first:
+      213: -7240063063570330912
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_116
+  - first:
+      213: -325493813609727354
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_117
+  - first:
+      213: 4224658683058398477
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_118
+  - first:
+      213: -971588755997626889
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_119
+  - first:
+      213: -549061541358120180
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_120
+  - first:
+      213: 2429252325126791077
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_121
+  - first:
+      213: -4948056447670625912
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_122
+  - first:
+      213: 5767570266693346090
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_123
+  - first:
+      213: 5358348040995232056
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_124
+  - first:
+      213: -7532184724347987855
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_125
+  - first:
+      213: 7175236639867203920
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_126
+  - first:
+      213: 2788881358463929850
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_127
+  - first:
+      213: 4532947434801021469
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_128
+  - first:
+      213: 1946179339499883103
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_129
+  - first:
+      213: -468664499856545597
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_130
+  - first:
+      213: -5834249939947161641
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_131
+  - first:
+      213: 143915039704790640
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_132
+  - first:
+      213: -6785706477261362632
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_133
+  - first:
+      213: 4826535255362541668
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_134
+  - first:
+      213: -3813563162635561423
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_135
+  - first:
+      213: 9205821299116764570
+    second: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_136
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +451,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +482,2970 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 875.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1fdee86c45ef1d0800000000000000
+      internalID: -3315119063919889937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 875.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb28247bb3836d10800000000000000
+      internalID: 2117681090925177823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 875.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c609d51f4b1c355b0800000000000000
+      internalID: -5380744146889895828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 875.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f725d53b00502fc20800000000000000
+      internalID: 3238656582600184447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 875.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f651bc5ebc1bf080800000000000000
+      internalID: -9152690213775911183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 875
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af90b5e6e1864c90800000000000000
+      internalID: -7185913326727028830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 875.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41158685d1bdc4220800000000000000
+      internalID: 2471591214603325716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 875.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beb2d2e3eff5aa40800000000000000
+      internalID: 5378986684192046769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 875.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9273930fae48f4570800000000000000
+      internalID: 8453121170185205545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 875.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268b88e076935e4e0800000000000000
+      internalID: -1953091748606986142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 796.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fed3d1c6b0a5adf0800000000000000
+      internalID: -169552704160145676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 796.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937c89d161cf53850800000000000000
+      internalID: 6356263621019354937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 796.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3512ffd39274cc100800000000000000
+      internalID: 129556731746263379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 796.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a0c0a8eddf662e0800000000000000
+      internalID: -2132738241272739207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 796.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4c85294c0686b80800000000000000
+      internalID: -8401358707474512712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 796.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f195aac825d2baf90800000000000000
+      internalID: -6941404568090945249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 796.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e962cf5df2660ea0800000000000000
+      internalID: -5906925020877002271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 796.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dbf8fdb776b3540800000000000000
+      internalID: 4988694793972333894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 796.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da6e4e17031d3170800000000000000
+      internalID: 8159699021159361234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 796.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f317b7461e074f580800000000000000
+      internalID: -8794280058991972033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 796.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db54fa15824e05480800000000000000
+      internalID: -8912372800745945667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 796.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84450beaa66a55210800000000000000
+      internalID: 1321145042830644296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 717.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae86fb7b1352a6a0800000000000000
+      internalID: -6439493139677409623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 717.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e2806dfdea425e0800000000000000
+      internalID: -1935229663470670209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 717.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f208640de1c58bd10800000000000000
+      internalID: 2141562910227726383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 717.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48a3cb6c67968690800000000000000
+      internalID: -7600220829220886452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 717.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9125350d902f51b30800000000000000
+      internalID: 4257575146712420889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 717.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e918fc01ec42140800000000000000
+      internalID: 4694103283223076409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 717.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1d852e25f402380800000000000000
+      internalID: -8998104838082866696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 717.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fe0ccd3a90993b0800000000000000
+      internalID: -5505358470095769814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 717.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fdcb0fd665b8b90800000000000000
+      internalID: -7238596945877606632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 717.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7fefc0e5da11e60800000000000000
+      internalID: 7931311038232721330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 717.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cbd986c3ac97680800000000000000
+      internalID: -8756745639643202556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 638.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6595ddb4e5dbb1ba0800000000000000
+      internalID: -6117087456155313834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 638.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8de3971e99f2730800000000000000
+      internalID: 3976566189672290516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 638.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f8cc7973a976ef0800000000000000
+      internalID: -114953701914013869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 638.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aa92cb1db231ac0800000000000000
+      internalID: -3885713873685599717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 638.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e346f352fe1fb60800000000000000
+      internalID: 7778260974701919822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 638.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecac7e6cf11a7710800000000000000
+      internalID: 1691684385914137830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 638.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbd0349338328130800000000000000
+      internalID: 3567475649011571707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 638.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de6c46e0f6ab1a20800000000000000
+      internalID: 3034202327550291664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 638.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32c65ee0668979f0800000000000000
+      internalID: -470196935209860545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 638.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e71c20c3364c8ef0800000000000000
+      internalID: -104631503254972446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 638.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec50d53d61ab8b10800000000000000
+      internalID: 1984857551213190381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 638.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a0b680fc35a82e0800000000000000
+      internalID: -2122792125687199131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238ae3a903e023860800000000000000
+      internalID: 7508079130689054770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 559.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2870d85171ba3b0800000000000000
+      internalID: -5500277138575097091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 559.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c859bd10451c20320800000000000000
+      internalID: 2522791307833480588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 559.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007a4e96e671e84d0800000000000000
+      internalID: -3130538927985481984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 559.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d742dad345011f0800000000000000
+      internalID: -1076267687066960548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 559.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1db97bea53070280800000000000000
+      internalID: -9077282834909381348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 559.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fb48ac02b3f74e0800000000000000
+      internalID: -1981800298997039320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 559.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f15ae5ee86a46d80800000000000000
+      internalID: -8258292684017741327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 559.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2554cc54059619e50800000000000000
+      internalID: 6814343504677586258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 559.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdfe954a1cb23c60800000000000000
+      internalID: 7796500725954969079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 559.4167
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6572a5e2e1983c00800000000000000
+      internalID: 880614130852197742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb943c0610f831b40800000000000000
+      internalID: 5409824813483248062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 480.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa5d9bc5edf80360800000000000000
+      internalID: 7136232772973976311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 480.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513311d2ee165ec80800000000000000
+      internalID: -8294115463146687723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 480.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582ff8ecabdccc830800000000000000
+      internalID: 4092872363586089605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 480.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272418753c618b190800000000000000
+      internalID: -7946576514252717454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 480.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e97559fe29038b20800000000000000
+      internalID: 3135359862936271335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 480.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b1526eafd188200800000000000000
+      internalID: 182428748348726031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 480.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9763388578f5020800000000000000
+      internalID: 2332731946229463520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 480.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3cf0f7fca01b530800000000000000
+      internalID: 3868885441194214311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 480.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e82edef2ccb03f60800000000000000
+      internalID: 8012111282777762024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 480.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870688d8afd731130800000000000000
+      internalID: 3536308647485792376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 480.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f47468cf3b19860800000000000000
+      internalID: 7535001548733501312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67ff247194ce0930800000000000000
+      internalID: 4111439638834444139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 401.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6431538f287fd0d40800000000000000
+      internalID: 5552366057499726662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 401.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354c017df554d1db0800000000000000
+      internalID: -4819619748284152749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 401.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a88bd84e3a16700800000000000000
+      internalID: 531886433031981634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 401.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dd72c46ec34ce70800000000000000
+      internalID: 9134492904032034120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 401.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d76d72437f29900800000000000000
+      internalID: 689885496319835545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 401.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3fac6c1526baa60800000000000000
+      internalID: 7686345292404945905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 401.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cc440f3f0b75120800000000000000
+      internalID: 2402583487980031017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 401.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b78692537343230800000000000000
+      internalID: 3617577102152858517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 401.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030e442a097ba2dc0800000000000000
+      internalID: -3662913515086880720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 401.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8364d7928f88ede0800000000000000
+      internalID: -1303634301067959409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 401.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a54ebc04a8a1190800000000000000
+      internalID: -7990922577912243658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f64f2472961545e0800000000000000
+      internalID: -1926108447360727308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 322.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f60d6635ac2e410800000000000000
+      internalID: 1504987685051199251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 322.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de726831be0db480800000000000000
+      internalID: -8881926735786770732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 322.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8e012fbdaf83340800000000000000
+      internalID: 4843897221802944673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 322.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7b0b21218fa94a0800000000000000
+      internalID: -6585678748569257994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 322.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ea992a47e852470800000000000000
+      internalID: 8369252114133266002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 322.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070cb526d836a1330800000000000000
+      internalID: 3682365104220520560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 322.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab00bd31b9b8462d0800000000000000
+      internalID: -3286348329904308038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 322.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77ada3f2c5485470800000000000000
+      internalID: 8383527409964394362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 322.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819d6656865fe7210800000000000000
+      internalID: 1332772368474888472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 322.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1504f3b3c25fcf10800000000000000
+      internalID: 2292141735846085919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 322.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7223e9b4d3a5fb7f0800000000000000
+      internalID: -594657406481452505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158306c92abb19bc0800000000000000
+      internalID: -3778032305304487855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 243.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d592066120975560800000000000000
+      internalID: 7302463793924314580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 243.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3d1d258cebb1090800000000000000
+      internalID: -8062640940284521489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 243.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86133d9c71230b010800000000000000
+      internalID: 1202516178259620200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_96
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 243.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfedc061174026070800000000000000
+      internalID: 8098039963713330939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_97
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 243.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3002c94d1f04996c0800000000000000
+      internalID: -4136203375364792317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_98
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 243.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d55b968046b76b0800000000000000
+      internalID: -5297530549375247075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_99
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 243.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2661698522f09a550800000000000000
+      internalID: 6172481404477511266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_100
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 245
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91a1573207ae6c90800000000000000
+      internalID: -7174613528394751590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25ac1f055956dad0800000000000000
+      internalID: -2677854706564553427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_102
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 164.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ba0978bec023d60800000000000000
+      internalID: 7868365704700930818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_103
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 164.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9c687e09021e3b0800000000000000
+      internalID: -5485067064428803641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_104
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 164.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911b86479be5e1d90800000000000000
+      internalID: -7125153409838567143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_105
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 164.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068e50c4baab29110800000000000000
+      internalID: 1266279690122160224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_106
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 164.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22994f3b5ffd49ba0800000000000000
+      internalID: -6082990950291564254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_107
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 164.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe9cc6e53fbce3c0800000000000000
+      internalID: -4328874903583547713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_108
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 164.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68aabb674d3528c0800000000000000
+      internalID: -4024743315026302865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_109
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 164.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775ee7b56610b9420800000000000000
+      internalID: 2637703545888892279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_110
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 164.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4950accf62586ebb0800000000000000
+      internalID: -4907088341477227116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_111
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 164.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060e39c2184aed990800000000000000
+      internalID: -7359263866371186592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_112
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 164.41666
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f580e8cef785f100800000000000000
+      internalID: 141168491693639158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a521283604690c40800000000000000
+      internalID: 5479020399547196841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_114
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 85.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33570a2b140776330800000000000000
+      internalID: 3704052646007567667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_115
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 85.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfa30371b555fd30800000000000000
+      internalID: 4464568826234908612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_116
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 85.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eac670d001268b90800000000000000
+      internalID: -7240063063570330912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_117
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 85.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a743fd91d9b7bf0800000000000000
+      internalID: -325493813609727354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_118
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 85.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0527f460b001aa30800000000000000
+      internalID: 4224658683058398477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_119
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 85.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd6ff29c293482f0800000000000000
+      internalID: -971588755997626889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_120
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 85.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03558bef675168f0800000000000000
+      internalID: -549061541358120180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_121
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 85.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af59f47e1076b120800000000000000
+      internalID: 2429252325126791077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_122
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 85.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889d20470e8f45bb0800000000000000
+      internalID: -4948056447670625912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_123
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 85.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23ac5389968a0050800000000000000
+      internalID: 5767570266693346090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_124
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 85.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8395e6e472dac5a40800000000000000
+      internalID: 5358348040995232056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1785d9286ed487790800000000000000
+      internalID: -7532184724347987855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_126
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 6.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051f6aa35bf839360800000000000000
+      internalID: 7175236639867203920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_127
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 6.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd83f3c1d814b620800000000000000
+      internalID: 2788881358463929850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_128
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 6.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1245d4eca348ee30800000000000000
+      internalID: 4532947434801021469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_129
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 6.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a48184cc7320b10800000000000000
+      internalID: 1946179339499883103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_130
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 6.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8e637de18fe79f0800000000000000
+      internalID: -468664499856545597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_131
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 6.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7fa9e3794980fa0800000000000000
+      internalID: -5834249939947161641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_132
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 6.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076b07357f94ff100800000000000000
+      internalID: 143915039704790640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_133
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 6.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ae4c049e354d1a0800000000000000
+      internalID: -6785706477261362632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_134
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 6.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46898cf1e3c4bf240800000000000000
+      internalID: 4826535255362541668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_135
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 6.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136979a3280831bc0800000000000000
+      internalID: -3813563162635561423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 159-1599906_previous-sheet-spelunky-character-sprite-sheet_136
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 6.416664
+        width: 79.583336
+        height: 79.583336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d649f62b5a1cf70800000000000000
+      internalID: 9205821299116764570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
