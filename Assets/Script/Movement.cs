@@ -24,7 +24,7 @@ public class Movement : MonoBehaviour
             hasMoved = false;
         }
 
-         else if (movementInput.x != 0 && !hasMoved)
+        else if (movementInput.x != 0 && !hasMoved)
         {
             hasMoved = true;
             GetMovementDirection();
@@ -73,7 +73,6 @@ public class Movement : MonoBehaviour
             UpdateFogOfWar();
         }
 
-       
 
     }
 
@@ -83,14 +82,6 @@ public class Movement : MonoBehaviour
         movementInput = value.Get<Vector2>();
     }
 
-    public void MeuMove()
-    {
-        if (Input.GetAxis("Horizontal"))
-        {
-
-        } 
-        movementInput = transform.position + 
-    }
 
     public int vision = 1;
 
