@@ -31,7 +31,24 @@ public class HudManagement : MonoBehaviour
     void Update()
     {
         panelMethod();
-        guiFeedText.text = playerScript.nomeTileMap;
+        
+
+        if (!playerScript.isVisible)
+        {
+            //panelMouseImage.enabled = false;
+            playerScript.tile.SetActive(false);
+            guiFeedText.text = "Muito \nlonge!";
+            //guiFeedText.enabled = false;
+
+        }
+        else
+        {
+            panelMouseImage.enabled = true;
+            playerScript.tile.SetActive(true);
+            guiFeedText.enabled = true;
+            //guiFeedText.text = "" + playerScript.custoTotal + "\n" + playerScript.textTileMap;
+            guiFeedText.text = "Mover\nCusto: " + playerScript.custoTotal;
+        }
     }
     void panelMethod()
     {
