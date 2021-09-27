@@ -12,6 +12,8 @@ public class ClickMovement : MonoBehaviour
     public GameObject tile;
     public Tile tileMouseOver;
     Camera cam;
+    public GameObject VitoriaObj;
+    public GameObject DerrotaObj;
 
 
     public Vector3Int location;
@@ -41,7 +43,7 @@ public class ClickMovement : MonoBehaviour
         tile.transform.position = worldCelltoWorld;
 
         if (Input.GetMouseButtonDown(0)){
-            limitadorMethod(); 
+            limitadorMethod();
         }
         Raycast2DMethod();
         verificacaoMouseOver();
@@ -56,6 +58,21 @@ public class ClickMovement : MonoBehaviour
             if (hit.transform.gameObject.layer == 9) textTileMap = "Piso 2";
             if (hit.transform.gameObject.layer == 10) textTileMap = "Piso 3";
             verificacaoCustoMethod(hit.transform.gameObject.layer, gameObject.layer);
+
+            if (Input.GetMouseButtonDown(0))
+            {
+                if (hit.transform.tag == "Vitoria" && lances > 0)
+                {
+                    VitoriaObj.SetActive(true);
+                    lances = 0;
+
+                }
+
+                else if(hit.transform.tag != "Vitoria" && lances == 0)
+                {
+                    DerrotaObj.SetActive(true) ;
+                }
+            }
             
         }
     }
@@ -133,6 +150,7 @@ public class ClickMovement : MonoBehaviour
         {
             
             isVisible = true;
+
             if (!world.GetTile(location))
             {
                 isVisible = false;
