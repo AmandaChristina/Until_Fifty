@@ -37,7 +37,7 @@ public class HudManagement : MonoBehaviour
         {
             //panelMouseImage.enabled = false;
             playerScript.tile.SetActive(false);
-            guiFeedText.text = "Muito \nlonge!";
+            guiFeedText.text = "Não posso\nme mexer!";
             //guiFeedText.enabled = false;
 
         }
@@ -47,7 +47,11 @@ public class HudManagement : MonoBehaviour
             playerScript.tile.SetActive(true);
             guiFeedText.enabled = true;
             //guiFeedText.text = "" + playerScript.custoTotal + "\n" + playerScript.textTileMap;
-            guiFeedText.text = "Mover\nCusto: " + playerScript.custoTotal;
+            guiFeedText.text = 
+                "\n"+ playerScript.textTileMap+ "" +
+                "\nMover" +
+                "Energia: " + playerScript.lances + "/50" +
+                "\nCusto: " + playerScript.custoTotal;
         }
     }
     void panelMethod()

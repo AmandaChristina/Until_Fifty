@@ -20,7 +20,7 @@ public class ClickMovement : MonoBehaviour
     Vector3 mousePosition;
 
     [SerializeField]
-    int lances = 50;
+    public int lances = 50;
     int lancesMax = 50;
     [SerializeField]
     public int custoTotal;
@@ -52,15 +52,16 @@ public class ClickMovement : MonoBehaviour
         RaycastHit2D hit = Physics2D.Raycast(ray.origin, ray.direction, Mathf.Infinity);
         if (hit){
 
-            textTileMap = "" + hit.transform.gameObject.layer;
-            //print(tileMouseOver);
+            if (hit.transform.gameObject.layer == 8) textTileMap = "Piso 1";
+            if (hit.transform.gameObject.layer == 9) textTileMap = "Piso 2";
+            if (hit.transform.gameObject.layer == 10) textTileMap = "Piso 3";
             verificacaoCustoMethod(hit.transform.gameObject.layer, gameObject.layer);
             
         }
     }
     void verificacaoCustoMethod(int layerTile, int layerPlayer)
     {
-        if (Input.GetMouseButton(0)) layerPlayer = layerTile;
+        if (Input.GetMouseButton(0)) gameObject.layer = layerTile;
 
         if (layerTile > layerPlayer){
             custosMethod(2);
@@ -73,17 +74,15 @@ public class ClickMovement : MonoBehaviour
     }
     void MovementClickMethod()
     {
-        if (world.GetTile(location)){
-            //print(worldCelltoWorld);
-            novaPostionPlayer = Vector3.Lerp(transform.position, worldCelltoWorld, 24);
-            transform.position = novaPostionPlayer;
-            UpdateFogOfWar();
+        if(lances > 0f) { 
+            if (world.GetTile(location)){
+                //print(worldCelltoWorld);
+                novaPostionPlayer = Vector3.Lerp(transform.position, worldCelltoWorld, 24);
+                transform.position = novaPostionPlayer;
+                UpdateFogOfWar();
+            }
+            lances -= custoTotal;
         }
-        else //print("não tem");
-
-        //print("Mover +1");
-        lances -= custoTotal;
-        //colocando um limitador
     }
     void custosMethod(int custoLance)
     {
@@ -107,8 +106,6 @@ public class ClickMovement : MonoBehaviour
             isVisible = false;
         }
         else{
-            isVisible = true;
-            //print(movementHorizontal +"| "+ movementHorizontal);
             MovementClickMethod();
             
         }
@@ -134,7 +131,13 @@ public class ClickMovement : MonoBehaviour
         }
         else
         {
+            
             isVisible = true;
+            if (!world.GetTile(location))
+            {
+                isVisible = false;
+
+            }
             //print(movementHorizontal +"| "+ movementHorizontal);
 
         }
@@ -150,23 +153,5 @@ public class ClickMovement : MonoBehaviour
             }
         }
     }
-    void OnTriggerEnter2D(Collider2D objeto)
-   {
-    //    if (objeto.gameObject.layer > gameObject.layer){
-
-    //        print("Player: "+ gameObject.layer+", Objeto:" + objeto.gameObject.layer );
-    //        custosMethod(1);
-    //        gameObject.layer = objeto.gameObject.layer;
-    //        print("Subir Elevação +1" + objeto.gameObject.name);
-    //    }
-
-    //    else if (objeto.gameObject.layer <= gameObject.layer){
-    //        gameObject.layer = objeto.gameObject.layer;
-    //    }
-
-    //    else if (objeto.gameObject.tag == "Pedra"){
-    //        print("Pedra +1");
-    //        custosMethod(1);
-    //    }
-    }
+    
 }
