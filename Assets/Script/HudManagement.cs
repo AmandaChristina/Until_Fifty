@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 using TMPro;
 public class HudManagement : MonoBehaviour
 {
@@ -60,6 +61,15 @@ public class HudManagement : MonoBehaviour
         float panelHeight = panelMovementCanvas.rectTransform.sizeDelta.y;
         panelMovementCanvas.transform.position = new Vector2(Input.mousePosition.x + (panelWidth / 2f) + 20f,
         Input.mousePosition.y + (panelHeight / 2f) + 20f);
+    }
+
+    public void GoToMenu()
+    {
+        SceneManager.LoadScene(0);
+    }
+    public void GoToRestart()
+    {
+        SceneManager.LoadScene(1);
     }
 }
    
